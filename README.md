@@ -17,7 +17,7 @@ The project simulates planetary motion and demonstrates the integration of 3D mo
 - C#
 - Spatial audio design
 
-- ## Preview
+## Preview
 ![Solar System Explorer](screenshots/solar-system.png)
 
 ## Project Structure
